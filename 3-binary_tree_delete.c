@@ -1,6 +1,7 @@
 #include "binary_trees.h"
 /**
  * binary_tree_delete - delet a tree
+ * @tree : the tree lool
 */
 
 
